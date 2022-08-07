@@ -1,0 +1,13 @@
+Battle Tactics, 1, 2, Ash Ketchum, Pallet Town, 2024, Intermediate, 4
+Catching Pokemon, 1, 3, Ash Ketchum, Pallet Town, 2024, Beginner, 2
+Gym Battles, 1, 3, Ash Ketchum, Pallet Town, 2024, Expert, 6
+Battle Tactics, 2, 4, Gary Oak, Pallet Town, 2024, Intermediate, 4
+Catching Pokemon, 2, 4, Gary Oak, Pallet Town, 2024, Beginner, 2
+Gym Battles, 2, 4, Gary Oak, Pallet Town, 2024, Expert, 6
+Catching Pokemon, 3, 2, Brock Harrison, Pewter City, 2021, Beginner, 2
+Healing and Potions, 3, 3, Brock Harrison, Pewter City, 2021, Beginner, 2
+Battle Tactics, 4, 3, Misty Williams, Cerulean City, 2022, Intermediate, 4
+Catching Pokemon, 4, 3, Misty Williams, Cerulean City, 2022, Beginner, 2
+None, None, None, Jessie Murrow, Viridian City, 2025, None, None
+None, None, None, James Morgan, Viridian City, 2025, None, None
+Healing and Potions, 1, 1, Ash Ketchum, Pallet Town, 2024, Beginner, 4

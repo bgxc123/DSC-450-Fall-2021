@@ -1,0 +1,11 @@
+1, Galapagos Penguin, exotic, 0.5
+2, Emperor Penguin, rare, 0.75
+3, Sri Lankan sloth bear, exotic, 2.5
+4, Grizzly bear, common, 3
+5, Giant Panda bear, exotic, 1.5
+6, Florida black bear, rare, 1.75
+7, Siberian tiger, rare, 3.25
+8, Bengal tiger, common, 2.75
+9, South China tiger, exotic, 2.5
+10, Alpaca, common, 0.25
+11, Llama, None, 3.5

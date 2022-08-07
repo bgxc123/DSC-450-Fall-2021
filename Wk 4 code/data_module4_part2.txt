@@ -1,0 +1,9 @@
+John, Smith, 111 N. Wabash Avenue, plumber, 40000, NULL
+John, Smith, 111 N. Wabash Avenue, bouncer, 35000, NULL
+Jane, Doe, 243 S. Wabash Avenue, waitress, 50000, Yes
+Jane, Doe, 243 S. Wabash Avenue, accountant, NULL, Yes
+Jane, Doe, 243 S. Wabash Avenue, bouncer, 35000, NULL
+Mike, Jackson, 1 Michigan Avenue, accountant, NULL, Yes
+Mike, Jackson, 1 Michigan Avenue, plumber, 40000, NULL
+Mary, Who, 20 S. Michigan Avenue, accountant, NULL, Yes
+Mary, Who, 20 S. Michigan Avenue, risk analyst, 80000, Yes
